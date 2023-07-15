@@ -1,0 +1,5 @@
+# Local Js File for Private API Keys, look at README.md for more information.
+env.js
+
+# env files didn't work in Pure JS Projects
+/.env
